@@ -1,0 +1,8 @@
+name: Hello user
+description: It print hello with current user name.
+package: CustomModule
+type: module
+dependencies:
+  - drupal:views
+  - drupal:user
+core_version_requirement: ^9.2 || ^10
