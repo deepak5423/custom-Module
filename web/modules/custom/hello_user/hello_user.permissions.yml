@@ -1,0 +1,6 @@
+access permission:
+  title: Greeting user
+  description: 'Greeting current user.'
+welcome permission:
+  title: welcome user
+  description: 'welcoming current user.'
