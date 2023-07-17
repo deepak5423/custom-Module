@@ -1,0 +1,7 @@
+hello_user.otll_config_page:
+  path: 'admin/config/otll'
+  defaults:
+    _form: 'Drupal\one_time_login_link\Form\OneTimeLoginLink'
+    _title: 'One Time Login link'
+  requirements:
+    _permission: 'access permission'
