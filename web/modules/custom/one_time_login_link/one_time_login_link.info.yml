@@ -1,0 +1,8 @@
+name: One Time Login Link
+description: It generates one time login link.
+package: CustomModule
+type: module
+dependencies:
+  - drupal:views
+  - drupal:user
+core_version_requirement: ^9.2 || ^10

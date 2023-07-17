@@ -1,0 +1,8 @@
+name: Form Ajax Api
+description: It takes form input.
+package: CustomModule
+type: module
+dependencies:
+  - drupal:views
+  - drupal:user
+core_version_requirement: ^9.2 || ^10

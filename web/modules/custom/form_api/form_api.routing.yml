@@ -1,0 +1,7 @@
+form_api.api_config_page:
+  path: 'admin/config/userform'
+  defaults:
+    _form: 'Drupal\form_api\Form\UserInfo'
+    _title: 'Form Api'
+  requirements:
+    _permission: 'access permission'
